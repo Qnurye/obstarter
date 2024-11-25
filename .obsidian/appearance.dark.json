@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "interfaceFontFamily": "Maple UI",
+  "textFontFamily": "Maple UI",
+  "monospaceFontFamily": "Maple Mono",
+  "accentColor": "",
+  "cssTheme": "Border",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "baseFontSizeAction": false,
+  "baseFontSize": 19
+}

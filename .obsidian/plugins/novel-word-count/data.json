@@ -1,0 +1,141 @@
+{
+  "settings": {
+    "useAdvancedFormatting": true,
+    "countType": "word",
+    "countConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word",
+      "frontmatterKey": ""
+    },
+    "countType2": "note",
+    "countConfig2": {
+      "$sessionCountType": "word",
+      "customSuffix": "n",
+      "frontmatterKey": ""
+    },
+    "countType3": "readtime",
+    "countConfig3": {
+      "$sessionCountType": "word",
+      "customSuffix": "",
+      "frontmatterKey": ""
+    },
+    "pipeSeparator": "",
+    "abbreviateDescriptions": true,
+    "alignment": "right",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "folderCountType2": "none",
+    "folderCountConfig2": {
+      "$sessionCountType": "word",
+      "customSuffix": ""
+    },
+    "folderCountType3": "none",
+    "folderCountConfig3": {
+      "$sessionCountType": "word",
+      "customSuffix": ""
+    },
+    "folderPipeSeparator": "|",
+    "folderAbbreviateDescriptions": false,
+    "folderAlignment": "inline",
+    "showSameCountsOnRoot": true,
+    "rootCountType": "word",
+    "rootCountConfig": {
+      "customSuffix": "w",
+      "$sessionCountType": "word"
+    },
+    "rootCountType2": "none",
+    "rootCountConfig2": {
+      "$sessionCountType": "word"
+    },
+    "rootCountType3": "none",
+    "rootCountConfig3": {
+      "$sessionCountType": "word"
+    },
+    "rootPipeSeparator": "|",
+    "rootAbbreviateDescriptions": false,
+    "showAdvanced": true,
+    "wordsPerMinute": 265,
+    "charsPerMinute": 500,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "characterCountType": "ExcludeWhitespace",
+    "pageCountType": "ByWords",
+    "includeDirectories": "",
+    "excludeComments": true,
+    "excludeCodeBlocks": false,
+    "excludeNonVisibleLinkPortions": true,
+    "excludeFootnotes": false,
+    "debugMode": false
+  },
+  "cachedCounts": {
+    "assets/templates/page.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 25,
+      "nonWhitespaceCharacterCount": 20,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 0,
+      "modifiedDate": 1732520857549,
+      "sizeInBytes": 111,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.0033333333333333335,
+        "wordCount": 1,
+        "characterCount": 25,
+        "nonWhitespaceCharacterCount": 20
+      },
+      "frontmatter": {
+        "created_at": "<% tp.date.now(\"YYYY-MM-DDTHH:mm\") %>",
+        "tags": [],
+        "type": "page",
+        "aliases": null
+      }
+    },
+    "README.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 216,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.72,
+      "characterCount": 2445,
+      "nonWhitespaceCharacterCount": 847,
+      "readingTimeInMinutes": 0.5366415094339623,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 0,
+      "modifiedDate": 1732522194183,
+      "sizeInBytes": 2980,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "created_at": "2024-07-28T17:48",
+        "tags": [
+          "README"
+        ],
+        "type": "page",
+        "aliases": null
+      }
+    }
+  }
+}

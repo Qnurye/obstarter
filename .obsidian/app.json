@@ -1,0 +1,18 @@
+{
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "assets/attachments",
+  "promptDelete": false,
+  "propertiesInDocument": "hidden",
+  "showLineNumber": true,
+  "tabSize": 2,
+  "vimMode": false
+}
